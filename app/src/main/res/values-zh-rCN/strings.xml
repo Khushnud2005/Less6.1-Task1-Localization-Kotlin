@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">先進的</string>
+    <string name="lan_english">英語(en)</string>
+    <string name="lan_russian">俄語(ru)</string>
+    <string name="lan_uzbek">烏茲別克語(uz)</string>
+    <string name="lan_chinese">中文(zn)</string>
+    <string name="lan_korean">朝鮮語(ko)</string>
+    <string name="lan_japanese">日語(ja)</string>
+
+    <plurals name="my_cats" tools:ignore="UnusedQuantity">
+        <item quantity="one">我有 %s 貓</item>
+        <item quantity="other">我有 %s 隻貓</item>
+    </plurals>
+</resources>

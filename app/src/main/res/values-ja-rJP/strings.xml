@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">高度</string>
+    <string name="lan_english">英語(en)</string>
+    <string name="lan_russian">ロシア(ru)</string>
+    <string name="lan_uzbek">ウズベク(uz)</string>
+    <string name="lan_chinese">中国語(zn)</string>
+    <string name="lan_korean">韓国語(ko)</string>
+    <string name="lan_japanese">日本語(ja)</string>
+
+    <plurals name="my_cats" tools:ignore="UnusedQuantity">
+        <item quantity="one">%s 猫を飼っています</item>
+        <item quantity="other">%s 匹の猫を飼っています</item>
+    </plurals>
+</resources>
